@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "330886512436",
+    "firebase_url": "https://aishopcrappdelivery-default-rtdb.firebaseio.com",
+    "project_id": "aishopcrappdelivery",
+    "storage_bucket": "aishopcrappdelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330886512436:android:d727627e2f29bdf360af61",
+        "android_client_info": {
+          "package_name": "com.aishopcr.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330886512436-8ud1p7btmsprqn5jat6gdtnvpdm5vn7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4SWePE9Jl53_DV1mGA9yHv73iPnZx_Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330886512436-8ud1p7btmsprqn5jat6gdtnvpdm5vn7b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330886512436-0htibbf668hldtf98s5hf6rr7h52sbmg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aishopcr.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330886512436:android:5fc09b1c433f783260af61",
+        "android_client_info": {
+          "package_name": "com.aishopcr.appdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330886512436-qkm3grb67i9u5r3l6bmvt0smvii15dle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aishopcr.appdelivery",
+            "certificate_hash": "ed85c590eb5261a7208b7a12e6f42ea28e10acba"
+          }
+        },
+        {
+          "client_id": "330886512436-8ud1p7btmsprqn5jat6gdtnvpdm5vn7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4SWePE9Jl53_DV1mGA9yHv73iPnZx_Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330886512436-8ud1p7btmsprqn5jat6gdtnvpdm5vn7b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330886512436-0htibbf668hldtf98s5hf6rr7h52sbmg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aishopcr.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330886512436:android:04915d6d61dad81e60af61",
+        "android_client_info": {
+          "package_name": "com.aishopcr.appstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330886512436-8ud1p7btmsprqn5jat6gdtnvpdm5vn7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4SWePE9Jl53_DV1mGA9yHv73iPnZx_Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330886512436-8ud1p7btmsprqn5jat6gdtnvpdm5vn7b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330886512436-0htibbf668hldtf98s5hf6rr7h52sbmg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aishopcr.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330886512436:android:5ae673d5dc62740660af61",
+        "android_client_info": {
+          "package_name": "com.teamcr.wazacr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330886512436-8ud1p7btmsprqn5jat6gdtnvpdm5vn7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4SWePE9Jl53_DV1mGA9yHv73iPnZx_Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330886512436-8ud1p7btmsprqn5jat6gdtnvpdm5vn7b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330886512436-0htibbf668hldtf98s5hf6rr7h52sbmg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aishopcr.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
